@@ -1,0 +1,12 @@
+body {
+  width: 80%;
+  margin: auto;
+  text-align: center;
+}
+
+button {
+  border: 1px solid indianred;
+  background-color: lightcoral;
+  padding: 10px;
+  border-radius: 5px;
+}
